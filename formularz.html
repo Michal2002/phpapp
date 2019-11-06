@@ -1,0 +1,26 @@
+<?php
+
+if (insset($_POST['wiadomosc'])){
+  global $db;
+  $post = $_POST['wiadomosc'];
+  $sql="INSERT INTO posty VALUES(NULL, '$post')";
+  $db->exec
+}
+
+$ret = array();
+$db-qery('SELECT * FROM posty',$ret);
+echo'<h3>Wiadomość</h3>';
+echo'<ul>';
+foreach($ret as $k => $t){
+  echo'<li>.$t['tresc']</li>';
+}
+echo'</ul>
+?>
+<form action="formularz.php" method="POST" name="dane" id="dane">
+    <input type="hidden" name="id_user" value="10">
+    <div class="form-group">
+        <label for="login">wiadomość:</label>
+        <textarea name="wiadomość" id="wiadomość" class="form-control" rows="3" cols="50"></textarea>
+    </div>
+    <input type="submit" value="Wyślij" class="btn btn-primary">
+</form>
