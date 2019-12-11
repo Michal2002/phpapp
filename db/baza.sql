@@ -7,13 +7,15 @@ CREATE TABLE menu (
 );
 
 INSERT INTO menu VALUES(NULL, 'witam', 'Witamy', 1);
-INSERT INTO menu VALUES(NULL, 'formularz', 'Formularz', 2);
-INSERT INTO menu VALUES(NULL, 'klasa', 'Klasa', 3);
-INSERT INTO menu VALUES(NULL, 'userfrom', 'Użydkownik', 4);
+INSERT INTO menu VALUES(NULL, 'wiadomosci', 'Wiadomości', 2);
+INSERT INTO menu VALUES(NULL, 'userform', 'Zarejestruj', 3);
+INSERT INTO menu VALUES(NULL, 'userlogin', 'Zaloguj się', 4);
 
 CREATE TABLE posty (
 	id INTEGER PRIMARY KEY AUTOINCREMENT,
-	tresc VARCHAR NOT NULL
+	tresc VARCHAR NOT NULL,
+	user VARCHAR,
+	data DATE DEFAULT CURRENT_TIMESTAMP
 );
 
 DROP TABLE IF EXISTS users;
