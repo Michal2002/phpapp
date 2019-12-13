@@ -199,3 +199,116 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:15:39 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '{' or '$' in /home/kl2ag2/public_html/phpapp/inc/users.php on line 13
+[13-Dec-2019 09:30:25 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:30:26 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:14 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:15 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:15 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:15 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:15 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:15 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:16 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:16 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:16 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:16 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:16 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:55 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:56 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:56 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:56 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:57 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:57 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:57 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:31:57 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:32:43 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:32:43 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:32:44 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:32:44 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:32:44 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:32:45 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
+[13-Dec-2019 09:32:48 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'Baza' not found in /home/kl2ag2/public_html/phpapp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/index.php on line 15
